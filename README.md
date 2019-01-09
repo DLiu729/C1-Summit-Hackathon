@@ -1,2 +1,4 @@
 # C1-Summit-Hackathon
-Capital One Summit Hackathon 
+### Sadaqat Ali, Mike Bao, Sachin Konan, David Liu, Eshaan Soman
+
+
